@@ -27,14 +27,14 @@ Novitskii et al,10.1002/adfm.202416509,one step solid-state reaction,polycrystal
 ,,one step solid-state reaction,polycrystal,873,300,2.756e+16,20.4
 ,,one step solid-state reaction,polycrystal,973,300,2.994e+17,45.4
 ,,one step solid-state reaction,polycrystal,1073,300,7.7535e+17,47.0
-,,one step solid-state reaction,polycrystal,1173,300,2.759e+17,134.22186480608917
-,,two step solid-state reaction,polycrystal,773,300,5302000000000000.0,6.565918521312713
-,,two step solid-state reaction,polycrystal,873,300,9833500000000000.0,25.04830426602939
-,,two step solid-state reaction,polycrystal,973,300,7.502e+16,91.67472007464677
-,,two step solid-state reaction,polycrystal,1073,300,4.066e+17,51.72328455484506
-,,two step solid-state reaction,polycrystal,1173,300,3.211e+17,136.33486452818437
-,,"two step solid-state reaction, Se-poor",polycrystal,773,300,1.876e+18,46.61187366737741
-,,"two step solid-state reaction, Se-poor",polycrystal,873,300,9.094e+17,139.3393996041346
+,,one step solid-state reaction,polycrystal,1173,300,2.759e+17,134.2
+,,two step solid-state reaction,polycrystal,773,300,5.302e+15,6.56
+,,two step solid-state reaction,polycrystal,873,300,9.8e+15,25.0
+,,two step solid-state reaction,polycrystal,973,300,7.502e+16,91.6
+,,two step solid-state reaction,polycrystal,1073,300,4.066e+17,51.7
+,,two step solid-state reaction,polycrystal,1173,300,3.211e+17,136.3
+,,"two step solid-state reaction, Se-poor",polycrystal,773,300,1.876e+18,46.6
+,,"two step solid-state reaction, Se-poor",polycrystal,873,300,9.094e+17,139.3
 ,,"two step solid-state reaction, Se-poor",polycrystal,973,300,9.296e+17,138.93401731927713
 ,,"two step solid-state reaction, Se-poor",polycrystal,1073,300,1.268e+18,179.3764294164038
 ,,"two step solid-state reaction, Se-poor",polycrystal,1173,300,2.719e+17,102.33196947407137
