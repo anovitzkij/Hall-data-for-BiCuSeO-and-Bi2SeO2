@@ -8,13 +8,13 @@ Mao et al.,10.1016/j.jcrysgro.2018.07.004,,single crystal,1100,300,4.75e+18,8.0
 Wang et al.,10.1063/5.0063091,,single crystal,1073,300,1e+18,507.0
 Xu et al.,10.1088/1361-648X/ab913f,,single crystal,1223,300,2.3e+19,282.0
 Gao et al.,10.1016/j.matlet.2021.131291,shear exfoliation,polycrystal,873,300,1.36e+19,80.0
-Liu et al.,10.1016/j.jeurceramsoc.2018.02.005,,polycrystal,773,300,1710000000000000.0,109.6
-Tan et al.,10.1002/aenm.201900354,,polycrystal,773,300,1100000000000000.0,103.2
+Liu et al.,10.1016/j.jeurceramsoc.2018.02.005,,polycrystal,773,300,1.71e+15,109.6
+Tan et al.,10.1002/aenm.201900354,,polycrystal,773,300,1.1e+15,103.2
 Yang et al.,10.1016/j.jallcom.2020.157748,shear exfoliation,polycrystal,873,300,1.26e+19,56.0
-Hong et al.,10.1016/j.jmrt.2021.10.002,,polycrystal,773,300,3000000000000000.0,113.0
+Hong et al.,10.1016/j.jmrt.2021.10.002,,polycrystal,773,300,3.0e+15,113.0
 Song et al.,10.1016/j.jallcom.2021.162147,shear exfoliation,polycrystal,873,323,1.04e+19,75.0
 Pan et al.,10.1016/j.scriptamat.2019.12.003,shear exfoliation,polycrystal,873,323,9.5e+18,79.0
-Pan et al.,10.1021/acsami.9b05470,,polycrystal,873,300,8000000000000000.0,80.1
+Pan et al.,10.1021/acsami.9b05470,,polycrystal,873,300,8.0e+15,80.1
 Pan et al.,,shear exfoliation,polycrystal,873,300,1.7e+19,172.8
 Zheng et al.,10.1021/acsaem.1c02219,,polycrystal,873,300,1.8e+18,254.99
 Zheng et al.,,,polycrystal,1173,300,9.4e+18,58.45
@@ -23,7 +23,7 @@ Zheng et al.,,,polycrystal,1173,300,9.4e+18,58.45
 ,,,polycrystal,1173,300,6.5e+18,12.35
 Fu et al.,10.1103/PhysRevB.97.241203,Se-rich,CVD crystals,923,300,2.875e+19,100.0
 ,,Se-poor,CVD crystals,923,300,9.1e+18,100.0
-Novitskii et al,10.1002/adfm.202416509,one step solid-state reaction,polycrystal,773,300,2.608e+16,6.611867331288344
+Novitskii et al,10.1002/adfm.202416509,one step solid-state reaction,polycrystal,773,300,2.608e+16,6.6
 ,,one step solid-state reaction,polycrystal,873,300,2.756e+16,20.4
 ,,one step solid-state reaction,polycrystal,973,300,2.994e+17,45.4
 ,,one step solid-state reaction,polycrystal,1073,300,7.7535e+17,47.0
@@ -35,6 +35,6 @@ Novitskii et al,10.1002/adfm.202416509,one step solid-state reaction,polycrystal
 ,,two step solid-state reaction,polycrystal,1173,300,3.211e+17,136.3
 ,,"two step solid-state reaction, Se-poor",polycrystal,773,300,1.876e+18,46.6
 ,,"two step solid-state reaction, Se-poor",polycrystal,873,300,9.094e+17,139.3
-,,"two step solid-state reaction, Se-poor",polycrystal,973,300,9.296e+17,138.93401731927713
-,,"two step solid-state reaction, Se-poor",polycrystal,1073,300,1.268e+18,179.3764294164038
-,,"two step solid-state reaction, Se-poor",polycrystal,1173,300,2.719e+17,102.33196947407137
+,,"two step solid-state reaction, Se-poor",polycrystal,973,300,9.296e+17,138.9
+,,"two step solid-state reaction, Se-poor",polycrystal,1073,300,1.268e+18,179.3
+,,"two step solid-state reaction, Se-poor",polycrystal,1173,300,2.719e+17,102.3
