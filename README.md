@@ -25,4 +25,4 @@ This repository contains Hall effect measurement data, namely, carrier concentra
 This data is presented and discussed in the following publications:
 1. [Recent Developments and Progress on BiCuSeO Based Thermoelectric Materials, *Nanobiotechnology Reports*, 16 (2021) 294–307.](https://doi.org/10.1134/S2635167621030150) (Figs. 11, 12)
 
-2. [Defect Engineering of Bi₂SeO₂ Thermoelectrics, *Advanced Functional Materials*, (2024) 2416509.](https://doi.org/10.1002/adfm.202416509) (Figs. 2, 4)
+2. [Defect Engineering of Bi₂SeO₂ Thermoelectrics, *Advanced Functional Materials*, (2024) 2416509.](https://doi.org/10.1002/adfm.202416509) (Fig. 2)
